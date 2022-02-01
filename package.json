@@ -1,12 +1,13 @@
 {
-    "name": "nodejs-starter",
-    "version": "1.0.0",
-    "main": "index.js",
-    "license": "MIT",
-    "dependencies": {
-        
-    },
-    "scripts": {
-        
-    }
+  "name": "com.docker.devenvironments.code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:domoconnell/nodejs-starter.git",
+  "author": "Dom OC <dom.oconnell@me.com>",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "mqtt": "^4.3.4"
   }
+}
